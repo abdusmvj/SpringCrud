@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+.footer{
+/*                position: fixed; 
+    bottom: 0; */
+    width: 100%; 
+    padding: 20px;
+    font-weight: bold;
+}
+.navbar .container ul li a{
+    color: #ffffff;
+    /*font-weight: bold;*/
+}
+.navbar .container ul li a:hover{
+    color: #ffffff;
+    background-color: #000;
+}
+.navbar .container div a{
+    color: #ffffff;
+    /*font-weight: bold;*/
+}
+.navbar .container div a:hover{
+    color: #ffffff;
+    background-color: #000;
+}
